@@ -25,4 +25,4 @@ Para mais detalhes sobre cada parte do sistema individualmente você pode acessa
 - Frontend: https://github.com/iagoaquino/simple-to-do-list-frontend
 - Backend: https://github.com/iagoaquino/simple-to-do-list-backend
 
-Obs: Durante os testes eu tive problemas com o frontend apesar de tudo executar como esperado quando eu tentava acessar a pagina http://localhost:5173/ o meu navegador dizia que não tinha nada lá. Minhas ultimas atualizações devem ter consertado esse bug mas eu não faço ideia do causou porque dele acontecer já que quando eu rodava o programa pelo terminal ele funcionava e o Dockerfile estava configurado corretamente.
+Obs: Durante os testes eu tive problemas com o frontend apesar de tudo executar como esperado quando eu tentava acessar a pagina http://localhost:5173/ o meu navegador dizia que não tinha nada lá. Minhas ultimas atualizações devem ter consertado esse bug mas eu não faço ideia do porque dele acontecer já que quando eu rodava o programa pelo terminal ele funcionava e o Dockerfile estava configurado corretamente.
